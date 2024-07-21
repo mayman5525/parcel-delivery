@@ -11,7 +11,7 @@ streamlined shipping
 
 with different interfaces for each user type
 *** 
-In this project i have used 
+## tools
 
 . sequelize ORM
 
@@ -26,3 +26,25 @@ In this project i have used
 . unit testing using JEST framrwork
 
 ***
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running .
+
+### Prerequisites
+
+```
+1- Clone the repository:
+```
+git clone https://github.com/mayman5525/parcel-delivery.git
+
+```
+```bash
+
+npm install
+```
+
+```bash
+
+npm start
+```
+
