@@ -12,6 +12,7 @@ streamlined shipping
 with different interfaces for each user type
 *** 
 In this project i have used 
+
 . sequelize ORM
 
 . multer
