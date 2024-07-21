@@ -13,9 +13,15 @@ with different interfaces for each user type
 *** 
 In this project i have used 
 . sequelize ORM
+
 . multer
+
 . bcrypt
+
 . socket
+
 . mvc design pattern
+
 . unit testing using JEST framrwork
+
 ***
