@@ -32,8 +32,8 @@ Follow these instructions to get a copy of the project up and running .
 
 ### Prerequisites
 
+ Clone the repository:
 ```
-1- Clone the repository:
 
 git clone https://github.com/mayman5525/parcel-delivery.git
 
